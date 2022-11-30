@@ -1,0 +1,18 @@
+{
+    "structures": [
+        {
+            "structure": "new_dimensions:sky_tower",
+            "weight": 1
+        },
+        {
+            "structure": "new_dimensions:wooden_house",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 16,
+        "separation": 4,
+        "salt": 10387312
+    }
+}

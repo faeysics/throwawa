@@ -1,0 +1,26 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "new_dimensions:village/fairy/streets/corner_01",
+        "processors": "minecraft:street_plains",
+        "projection": "terrain_matching"
+      },
+      "weight": 2
+    },
+
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "new_dimensions:village/fairy/streets/crossroad_01",
+        "processors": "minecraft:street_plains",
+        "projection": "terrain_matching"
+      },
+      "weight": 2
+    }
+
+  ],
+  "fallback": "new_dimensions:village/fairy/terminators",
+  "name": "new_dimensions:village/fairy/streets"
+}

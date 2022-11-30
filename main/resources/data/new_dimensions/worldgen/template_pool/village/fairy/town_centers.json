@@ -1,0 +1,25 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "new_dimensions:village/fairy/town_centers/fairy_meeting_point_2",
+        "processors": "minecraft:mossify_20_percent",
+        "projection": "rigid"
+      },
+      "weight": 50
+    },
+
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "new_dimensions:village/fairy/zombie/town_centers/fairy_meeting_point_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty",
+  "name": "new_dimensions:village/fairy/town_centers"
+}
